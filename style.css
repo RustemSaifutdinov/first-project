@@ -1,6 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: rgb(155, 97, 27);
     margin: 0;
+    
 }
 
-
+.text {
+    color: blue;
+    
+}
